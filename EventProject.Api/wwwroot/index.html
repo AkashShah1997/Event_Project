@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Upcoming Events</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Upcoming Events</h1>
+    <div class="toolbar">
+        <label for="days-filter">Show events in the next:</label>
+        <select id="days-filter">
+            <option value="30" selected>30 days</option>
+            <option value="60">60 days</option>
+            <option value="180">180 days</option>
+        </select>
+        <a href="sales.html">View Sales Summary</a>
+    </div>
+    <div id="error-message" class="error" style="display:none;"></div>
+    <table>
+        <thead>
+            <tr>
+                <th data-sort="name">Event Name &#x2195;</th>
+                <th data-sort="startDate">Start Date &#x2195;</th>
+                <th data-sort="endDate">End Date</th>
+            </tr>
+        </thead>
+        <tbody id="events-table-body">
+        </tbody>
+    </table>
+    <script src="app.js"></script>
+</body>
+</html>

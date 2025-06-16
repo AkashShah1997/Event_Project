@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "EventProject.Api.Controllers.EventsController",
+    "Method": "GetUpcomingEvents",
+    "RelativePath": "api/Events",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "days",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EventProject.Api.Controllers.EventsController",
+    "Method": "GetTopSalesByCount",
+    "RelativePath": "api/Events/sales-summary/by-count",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EventProject.Api.Controllers.EventsController",
+    "Method": "GetTopSalesByValue",
+    "RelativePath": "api/Events/sales-summary/by-value",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

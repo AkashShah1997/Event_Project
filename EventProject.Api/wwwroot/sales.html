@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sales Summary</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Sales Summary</h1>
+    <a href="index.html">Back to Event List</a>
+
+    <h2>Top 5 Events by Tickets Sold</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Event Name</th>
+                <th>Tickets Sold</th>
+            </tr>
+        </thead>
+        <tbody id="sales-by-count"></tbody>
+    </table>
+
+    <h2>Top 5 Events by Sales Value ($)</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Event Name</th>
+                <th>Total Revenue</th>
+            </tr>
+        </thead>
+        <tbody id="sales-by-value"></tbody>
+    </table>
+    <script src="sales.js"></script>
+</body>
+</html>

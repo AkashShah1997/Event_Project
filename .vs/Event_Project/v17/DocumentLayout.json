@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Akash_Projects\\Event_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91E9D729-FA89-402B-870C-77A10CC63C02}|EventProject.Core\\EventProject.Core.csproj|d:\\akash_projects\\event_project\\eventproject.core\\mappings\\event.hbm.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{91E9D729-FA89-402B-870C-77A10CC63C02}|EventProject.Core\\EventProject.Core.csproj|solutionrelative:eventproject.core\\mappings\\event.hbm.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E9D729-FA89-402B-870C-77A10CC63C02}|EventProject.Core\\EventProject.Core.csproj|d:\\akash_projects\\event_project\\eventproject.core\\mappings\\ticketsales.hbm.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{91E9D729-FA89-402B-870C-77A10CC63C02}|EventProject.Core\\EventProject.Core.csproj|solutionrelative:eventproject.core\\mappings\\ticketsales.hbm.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E9D729-FA89-402B-870C-77A10CC63C02}|EventProject.Core\\EventProject.Core.csproj|d:\\akash_projects\\event_project\\eventproject.core\\entities\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E9D729-FA89-402B-870C-77A10CC63C02}|EventProject.Core\\EventProject.Core.csproj|solutionrelative:eventproject.core\\entities\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E9D729-FA89-402B-870C-77A10CC63C02}|EventProject.Core\\EventProject.Core.csproj|d:\\akash_projects\\event_project\\eventproject.core\\entities\\ticketsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E9D729-FA89-402B-870C-77A10CC63C02}|EventProject.Core\\EventProject.Core.csproj|solutionrelative:eventproject.core\\entities\\ticketsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E9D729-FA89-402B-870C-77A10CC63C02}|EventProject.Core\\EventProject.Core.csproj|d:\\akash_projects\\event_project\\eventproject.core\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E9D729-FA89-402B-870C-77A10CC63C02}|EventProject.Core\\EventProject.Core.csproj|solutionrelative:eventproject.core\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98B7F39-FE5E-45E8-AF6B-204FA34B95F7}|EventProject.Tests\\EventProject.Tests.csproj|d:\\akash_projects\\event_project\\eventproject.tests\\servicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98B7F39-FE5E-45E8-AF6B-204FA34B95F7}|EventProject.Tests\\EventProject.Tests.csproj|solutionrelative:eventproject.tests\\servicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADBDFF1-36C7-40E6-A77E-C7787D1A7624}|EventProject.Api\\EventProject.Api.csproj|d:\\akash_projects\\event_project\\eventproject.api\\wwwroot\\sales.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DADBDFF1-36C7-40E6-A77E-C7787D1A7624}|EventProject.Api\\EventProject.Api.csproj|solutionrelative:eventproject.api\\wwwroot\\sales.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADBDFF1-36C7-40E6-A77E-C7787D1A7624}|EventProject.Api\\EventProject.Api.csproj|d:\\akash_projects\\event_project\\eventproject.api\\nhibernatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADBDFF1-36C7-40E6-A77E-C7787D1A7624}|EventProject.Api\\EventProject.Api.csproj|solutionrelative:eventproject.api\\nhibernatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADBDFF1-36C7-40E6-A77E-C7787D1A7624}|EventProject.Api\\EventProject.Api.csproj|d:\\akash_projects\\event_project\\eventproject.api\\eventproject.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{DADBDFF1-36C7-40E6-A77E-C7787D1A7624}|EventProject.Api\\EventProject.Api.csproj|solutionrelative:eventproject.api\\eventproject.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E9D729-FA89-402B-870C-77A10CC63C02}|EventProject.Core\\EventProject.Core.csproj|d:\\akash_projects\\event_project\\eventproject.core\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E9D729-FA89-402B-870C-77A10CC63C02}|EventProject.Core\\EventProject.Core.csproj|solutionrelative:eventproject.core\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E9D729-FA89-402B-870C-77A10CC63C02}|EventProject.Core\\EventProject.Core.csproj|d:\\akash_projects\\event_project\\eventproject.core\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E9D729-FA89-402B-870C-77A10CC63C02}|EventProject.Core\\EventProject.Core.csproj|solutionrelative:eventproject.core\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADBDFF1-36C7-40E6-A77E-C7787D1A7624}|EventProject.Api\\EventProject.Api.csproj|d:\\akash_projects\\event_project\\eventproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DADBDFF1-36C7-40E6-A77E-C7787D1A7624}|EventProject.Api\\EventProject.Api.csproj|solutionrelative:eventproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADBDFF1-36C7-40E6-A77E-C7787D1A7624}|EventProject.Api\\EventProject.Api.csproj|d:\\akash_projects\\event_project\\eventproject.api\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DADBDFF1-36C7-40E6-A77E-C7787D1A7624}|EventProject.Api\\EventProject.Api.csproj|solutionrelative:eventproject.api\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E9D729-FA89-402B-870C-77A10CC63C02}|EventProject.Core\\EventProject.Core.csproj|d:\\akash_projects\\event_project\\eventproject.core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E9D729-FA89-402B-870C-77A10CC63C02}|EventProject.Core\\EventProject.Core.csproj|solutionrelative:eventproject.core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E9D729-FA89-402B-870C-77A10CC63C02}|EventProject.Core\\EventProject.Core.csproj|d:\\akash_projects\\event_project\\eventproject.core\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E9D729-FA89-402B-870C-77A10CC63C02}|EventProject.Core\\EventProject.Core.csproj|solutionrelative:eventproject.core\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E9D729-FA89-402B-870C-77A10CC63C02}|EventProject.Core\\EventProject.Core.csproj|d:\\akash_projects\\event_project\\eventproject.core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{91E9D729-FA89-402B-870C-77A10CC63C02}|EventProject.Core\\EventProject.Core.csproj|solutionrelative:eventproject.core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADBDFF1-36C7-40E6-A77E-C7787D1A7624}|EventProject.Api\\EventProject.Api.csproj|d:\\akash_projects\\event_project\\eventproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADBDFF1-36C7-40E6-A77E-C7787D1A7624}|EventProject.Api\\EventProject.Api.csproj|solutionrelative:eventproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADBDFF1-36C7-40E6-A77E-C7787D1A7624}|EventProject.Api\\EventProject.Api.csproj|d:\\akash_projects\\event_project\\eventproject.api\\wwwroot\\sales.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DADBDFF1-36C7-40E6-A77E-C7787D1A7624}|EventProject.Api\\EventProject.Api.csproj|solutionrelative:eventproject.api\\wwwroot\\sales.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADBDFF1-36C7-40E6-A77E-C7787D1A7624}|EventProject.Api\\EventProject.Api.csproj|d:\\akash_projects\\event_project\\eventproject.api\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DADBDFF1-36C7-40E6-A77E-C7787D1A7624}|EventProject.Api\\EventProject.Api.csproj|solutionrelative:eventproject.api\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADBDFF1-36C7-40E6-A77E-C7787D1A7624}|EventProject.Api\\EventProject.Api.csproj|d:\\akash_projects\\event_project\\eventproject.api\\eventproject.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DADBDFF1-36C7-40E6-A77E-C7787D1A7624}|EventProject.Api\\EventProject.Api.csproj|solutionrelative:eventproject.api\\eventproject.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADBDFF1-36C7-40E6-A77E-C7787D1A7624}|EventProject.Api\\EventProject.Api.csproj|d:\\akash_projects\\event_project\\eventproject.api\\wwwroot\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DADBDFF1-36C7-40E6-A77E-C7787D1A7624}|EventProject.Api\\EventProject.Api.csproj|solutionrelative:eventproject.api\\wwwroot\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADBDFF1-36C7-40E6-A77E-C7787D1A7624}|EventProject.Api\\EventProject.Api.csproj|d:\\akash_projects\\event_project\\eventproject.api\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADBDFF1-36C7-40E6-A77E-C7787D1A7624}|EventProject.Api\\EventProject.Api.csproj|solutionrelative:eventproject.api\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E9D729-FA89-402B-870C-77A10CC63C02}|EventProject.Core\\EventProject.Core.csproj|d:\\akash_projects\\event_project\\eventproject.core\\eventproject.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{91E9D729-FA89-402B-870C-77A10CC63C02}|EventProject.Core\\EventProject.Core.csproj|solutionrelative:eventproject.core\\eventproject.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicketSales.hbm.xml",
+              "DocumentMoniker": "D:\\Akash_Projects\\Event_Project\\EventProject.Core\\Mappings\\TicketSales.hbm.xml",
+              "RelativeDocumentMoniker": "EventProject.Core\\Mappings\\TicketSales.hbm.xml",
+              "ToolTip": "D:\\Akash_Projects\\Event_Project\\EventProject.Core\\Mappings\\TicketSales.hbm.xml",
+              "RelativeToolTip": "EventProject.Core\\Mappings\\TicketSales.hbm.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-15T22:17:43.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Events.cs",
+              "DocumentMoniker": "D:\\Akash_Projects\\Event_Project\\EventProject.Core\\Entities\\Events.cs",
+              "RelativeDocumentMoniker": "EventProject.Core\\Entities\\Events.cs",
+              "ToolTip": "D:\\Akash_Projects\\Event_Project\\EventProject.Core\\Entities\\Events.cs",
+              "RelativeToolTip": "EventProject.Core\\Entities\\Events.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T22:16:09.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketSales.cs",
+              "DocumentMoniker": "D:\\Akash_Projects\\Event_Project\\EventProject.Core\\Entities\\TicketSales.cs",
+              "RelativeDocumentMoniker": "EventProject.Core\\Entities\\TicketSales.cs",
+              "ToolTip": "D:\\Akash_Projects\\Event_Project\\EventProject.Core\\Entities\\TicketSales.cs",
+              "RelativeToolTip": "EventProject.Core\\Entities\\TicketSales.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T22:16:44.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "D:\\Akash_Projects\\Event_Project\\EventProject.Core\\EventService.cs",
+              "RelativeDocumentMoniker": "EventProject.Core\\EventService.cs",
+              "ToolTip": "D:\\Akash_Projects\\Event_Project\\EventProject.Core\\EventService.cs",
+              "RelativeToolTip": "EventProject.Core\\EventService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA3wBYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T22:22:28.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Event.hbm.xml",
+              "DocumentMoniker": "D:\\Akash_Projects\\Event_Project\\EventProject.Core\\Mappings\\Event.hbm.xml",
+              "RelativeDocumentMoniker": "EventProject.Core\\Mappings\\Event.hbm.xml",
+              "ToolTip": "D:\\Akash_Projects\\Event_Project\\EventProject.Core\\Mappings\\Event.hbm.xml",
+              "RelativeToolTip": "EventProject.Core\\Mappings\\Event.hbm.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-15T22:17:30.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceTests.cs",
+              "DocumentMoniker": "D:\\Akash_Projects\\Event_Project\\EventProject.Tests\\ServiceTests.cs",
+              "RelativeDocumentMoniker": "EventProject.Tests\\ServiceTests.cs",
+              "ToolTip": "D:\\Akash_Projects\\Event_Project\\EventProject.Tests\\ServiceTests.cs",
+              "RelativeToolTip": "EventProject.Tests\\ServiceTests.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAUwDUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T21:34:03.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NHibernateHelper.cs",
+              "DocumentMoniker": "D:\\Akash_Projects\\Event_Project\\EventProject.Api\\NHibernateHelper.cs",
+              "RelativeDocumentMoniker": "EventProject.Api\\NHibernateHelper.cs",
+              "ToolTip": "D:\\Akash_Projects\\Event_Project\\EventProject.Api\\NHibernateHelper.cs",
+              "RelativeToolTip": "EventProject.Api\\NHibernateHelper.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T22:18:46.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "sales.html",
+              "DocumentMoniker": "D:\\Akash_Projects\\Event_Project\\EventProject.Api\\wwwroot\\sales.html",
+              "RelativeDocumentMoniker": "EventProject.Api\\wwwroot\\sales.html",
+              "ToolTip": "D:\\Akash_Projects\\Event_Project\\EventProject.Api\\wwwroot\\sales.html",
+              "RelativeToolTip": "EventProject.Api\\wwwroot\\sales.html",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-15T22:38:46.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventProject.Api.http",
+              "DocumentMoniker": "D:\\Akash_Projects\\Event_Project\\EventProject.Api\\EventProject.Api.http",
+              "RelativeDocumentMoniker": "EventProject.Api\\EventProject.Api.http",
+              "ToolTip": "D:\\Akash_Projects\\Event_Project\\EventProject.Api\\EventProject.Api.http",
+              "RelativeToolTip": "EventProject.Api\\EventProject.Api.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-16T01:17:13.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "D:\\Akash_Projects\\Event_Project\\EventProject.Core\\TicketService.cs",
+              "RelativeDocumentMoniker": "EventProject.Core\\TicketService.cs",
+              "ToolTip": "D:\\Akash_Projects\\Event_Project\\EventProject.Core\\TicketService.cs",
+              "RelativeToolTip": "EventProject.Core\\TicketService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T22:27:34.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITicketService.cs",
+              "DocumentMoniker": "D:\\Akash_Projects\\Event_Project\\EventProject.Core\\ITicketService.cs",
+              "RelativeDocumentMoniker": "EventProject.Core\\ITicketService.cs",
+              "ToolTip": "D:\\Akash_Projects\\Event_Project\\EventProject.Core\\ITicketService.cs",
+              "RelativeToolTip": "EventProject.Core\\ITicketService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T01:29:58.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Akash_Projects\\Event_Project\\EventProject.Core\\Program.cs",
+              "RelativeDocumentMoniker": "EventProject.Core\\Program.cs",
+              "ToolTip": "D:\\Akash_Projects\\Event_Project\\EventProject.Core\\Program.cs",
+              "RelativeToolTip": "EventProject.Core\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T01:19:16.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Akash_Projects\\Event_Project\\EventProject.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "EventProject.Api\\appsettings.json",
+              "ToolTip": "D:\\Akash_Projects\\Event_Project\\EventProject.Api\\appsettings.json",
+              "RelativeToolTip": "EventProject.Api\\appsettings.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-15T22:38:00.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Akash_Projects\\Event_Project\\EventProject.Api\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "EventProject.Api\\wwwroot\\index.html",
+              "ToolTip": "D:\\Akash_Projects\\Event_Project\\EventProject.Api\\wwwroot\\index.html",
+              "RelativeToolTip": "EventProject.Api\\wwwroot\\index.html",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-15T22:38:13.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Akash_Projects\\Event_Project\\EventProject.Core\\appsettings.json",
+              "RelativeDocumentMoniker": "EventProject.Core\\appsettings.json",
+              "ToolTip": "D:\\Akash_Projects\\Event_Project\\EventProject.Core\\appsettings.json",
+              "RelativeToolTip": "EventProject.Core\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-15T23:02:16.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "D:\\Akash_Projects\\Event_Project\\EventProject.Core\\IEventService.cs",
+              "RelativeDocumentMoniker": "EventProject.Core\\IEventService.cs",
+              "ToolTip": "D:\\Akash_Projects\\Event_Project\\EventProject.Core\\IEventService.cs",
+              "RelativeToolTip": "EventProject.Core\\IEventService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T22:21:34.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EventProject.Api",
+              "DocumentMoniker": "D:\\Akash_Projects\\Event_Project\\EventProject.Api\\EventProject.Api.csproj",
+              "RelativeDocumentMoniker": "EventProject.Api\\EventProject.Api.csproj",
+              "ToolTip": "D:\\Akash_Projects\\Event_Project\\EventProject.Api\\EventProject.Api.csproj",
+              "RelativeToolTip": "EventProject.Api\\EventProject.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-15T21:36:46.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Akash_Projects\\Event_Project\\EventProject.Api\\Program.cs",
+              "RelativeDocumentMoniker": "EventProject.Api\\Program.cs",
+              "ToolTip": "D:\\Akash_Projects\\Event_Project\\EventProject.Api\\Program.cs",
+              "RelativeToolTip": "EventProject.Api\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T22:30:52.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\Akash_Projects\\Event_Project\\EventProject.Api\\wwwroot\\style.css",
+              "RelativeDocumentMoniker": "EventProject.Api\\wwwroot\\style.css",
+              "ToolTip": "D:\\Akash_Projects\\Event_Project\\EventProject.Api\\wwwroot\\style.css",
+              "RelativeToolTip": "EventProject.Api\\wwwroot\\style.css",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-15T22:39:24.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "sales.js",
+              "DocumentMoniker": "D:\\Akash_Projects\\Event_Project\\EventProject.Api\\wwwroot\\sales.js",
+              "RelativeDocumentMoniker": "EventProject.Api\\wwwroot\\sales.js",
+              "ToolTip": "D:\\Akash_Projects\\Event_Project\\EventProject.Api\\wwwroot\\sales.js",
+              "RelativeToolTip": "EventProject.Api\\wwwroot\\sales.js",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-15T22:39:01.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "D:\\Akash_Projects\\Event_Project\\EventProject.Api\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "EventProject.Api\\Controllers\\EventsController.cs",
+              "ToolTip": "D:\\Akash_Projects\\Event_Project\\EventProject.Api\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "EventProject.Api\\Controllers\\EventsController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T22:34:55.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "app.js",
+              "DocumentMoniker": "D:\\Akash_Projects\\Event_Project\\EventProject.Api\\wwwroot\\app.js",
+              "RelativeDocumentMoniker": "EventProject.Api\\wwwroot\\app.js",
+              "ToolTip": "D:\\Akash_Projects\\Event_Project\\EventProject.Api\\wwwroot\\app.js",
+              "RelativeToolTip": "EventProject.Api\\wwwroot\\app.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-15T22:38:28.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EventProject.Core",
+              "DocumentMoniker": "D:\\Akash_Projects\\Event_Project\\EventProject.Core\\EventProject.Core.csproj",
+              "RelativeDocumentMoniker": "EventProject.Core\\EventProject.Core.csproj",
+              "ToolTip": "D:\\Akash_Projects\\Event_Project\\EventProject.Core\\EventProject.Core.csproj",
+              "RelativeToolTip": "EventProject.Core\\EventProject.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-15T22:21:18.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

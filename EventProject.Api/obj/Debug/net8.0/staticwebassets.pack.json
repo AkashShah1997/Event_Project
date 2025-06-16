@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Akash_Projects\\Event_Project\\EventProject.Api\\wwwroot\\app.js",
+      "PackagePath": "staticwebassets\\app.js"
+    },
+    {
+      "Id": "D:\\Akash_Projects\\Event_Project\\EventProject.Api\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Akash_Projects\\Event_Project\\EventProject.Api\\wwwroot\\sales.html",
+      "PackagePath": "staticwebassets\\sales.html"
+    },
+    {
+      "Id": "D:\\Akash_Projects\\Event_Project\\EventProject.Api\\wwwroot\\sales.js",
+      "PackagePath": "staticwebassets\\sales.js"
+    },
+    {
+      "Id": "D:\\Akash_Projects\\Event_Project\\EventProject.Api\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EventProject.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EventProject.Api.props",
+      "PackagePath": "build\\EventProject.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EventProject.Api.props",
+      "PackagePath": "buildMultiTargeting\\EventProject.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EventProject.Api.props",
+      "PackagePath": "buildTransitive\\EventProject.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

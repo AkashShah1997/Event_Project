@@ -1,0 +1,6 @@
+@EventProject.Api_HostAddress = http://localhost:5207
+
+GET {{EventProject.Api_HostAddress}}/EventProject/
+Accept: application/json
+
+###

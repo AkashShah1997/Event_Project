@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="EventProject.Core"
+                   namespace="EventProject.Core.Entities">
+
+	<class name="Events" table="Events">
+		<id name="Id" column="Id" type="String">
+			<generator class="assigned"/>
+		</id>
+
+		<property name="Name" column="Name" type="String" not-null="true" length="255"/>
+		<property name="StartsOn" column="StartsOn" type="DateTime" not-null="true" sql-type="TEXT"/>
+		<property name="EndsOn" column="EndsOn" type="DateTime" not-null="true" sql-type="TEXT"/>
+		<property name="Location" column="Location" type="String" not-null="true" length="500"/>
+
+		<bag name="TicketSales" cascade="all-delete-orphan" inverse="true" lazy="true">
+			<key column="EventId" on-delete="cascade"/>
+			<one-to-many class="TicketSales"/>
+		</bag>
+	</class>
+
+</hibernate-mapping>

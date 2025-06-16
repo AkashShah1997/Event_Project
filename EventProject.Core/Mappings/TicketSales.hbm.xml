@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="EventProject.Core"
+                   namespace="EventProject.Core.Entities">
+
+	<class name="TicketSales" table="TicketSales">
+		<id name="Id" column="Id" type="String">
+			<generator class="assigned"/>
+		</id>
+
+		<many-to-one name="Event" column="EventId" class="EventProject.Core.Entities.Events" not-null="true"/>
+
+		<property name="UserId" column="UserId" type="String" not-null="true" length="36"/>
+		<property name="PurchaseDate" column="PurchaseDate" type="DateTime" not-null="true" sql-type="TEXT"/>
+		<property name="PriceInCents" column="PriceInCents" type="Int32" not-null="true"/>
+	</class>
+
+</hibernate-mapping>
